@@ -1,2 +1,2 @@
 # AwayOf-pythonConnectMySQL
-package: flask, pymysql, 
+package: flask, pymysql, flask_cors,xl
