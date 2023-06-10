@@ -3,7 +3,7 @@ import xlwt
 host='localhost'
 port=3306
 user='root'
-password='Mcqmyxh2$'
+password='password'
 database='matching'
 charset='utf8'
 conn = pymysql.connect(host='localhost',port=3306,user='root',password="Mcqmyxh2$",database='matching',charset='utf8')
